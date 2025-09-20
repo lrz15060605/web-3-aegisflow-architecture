@@ -1,0 +1,8 @@
+{
+  "name": "aegisflow",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
