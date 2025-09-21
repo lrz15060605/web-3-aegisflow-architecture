@@ -7,7 +7,7 @@ Instead of submitting raw Ethereum transactions, users **sign an intent** in the
 
 ## 📊 Project Diagram
 
-![AegisFlow Architecture](docs/architecture.png)
+# click on architecture.png image 
 
 ---
 
