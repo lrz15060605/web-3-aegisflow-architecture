@@ -7,7 +7,9 @@ Instead of submitting raw Ethereum transactions, users **sign an intent** in the
 
 ## 📊 Project Diagram
 
-# click on architecture.png image 
+# click on architecturepng image
+architecture.png 
+
 
 ---
 
